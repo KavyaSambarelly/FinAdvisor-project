@@ -6,10 +6,6 @@ An AI-powered assistant designed to help users understand and navigate digital f
 
 ---
 
-![ai](ai.jpg)
-
----
-
 ## 🧩 Problem Statement
 
 Many individuals, especially from rural or digitally underserved areas, lack financial literacy. They struggle with understanding UPI, online scams, interest rates, or personal budgeting. This can lead to fraud, poor money management, or digital exclusion.
@@ -84,25 +80,6 @@ An AI agent trained using IBM Watsonx.ai that delivers reliable, document-based 
 2. IBM Granite LLM processes the language
 3. Vector Index retrieves trusted content from uploaded financial PDFs
 4. Agent responds with a grounded, natural-language answer
-
----
-
-## 🖼️ Screenshots
-### 🔹 Setting up..
-![Setup & preview image](setup.jpg)
-### 🔹 Agent Instructions...
-![Agent Instructions](agent_instructions.jpg)
-### 🔹 Quick Start Questions...
-![quick_start_questions](quick_start_questions.jpg)
-### 🔹 Tools used & Testing...
-![Tool Used & Testing](tool_testing.jpg)
-### 🔹 Deployment & Preview...
-![Deployment & Testing](deployed.jpg)
-### 🔹 API References after Deployment...
-![api _references](links.jpg)
-### 🔹 Resources List...
-![resourses_list.jpg](resourses_list.jpg)
-
 
 ---
 
