@@ -116,12 +116,6 @@ An AI agent trained using IBM Watsonx.ai that delivers reliable, document-based 
 
 ---
 
-## ⚖️ License
-
-This project is licensed under the [MIT License](LICENSE).
-
----
-
 🔗 [Connect with me on LinkedIn](https://www.linkedin.com/in/kavyasambarelly)
 
 ---
